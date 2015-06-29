@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="7" failed="5" total="12" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite C" duration-ms="34" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+    <groups>
+    </groups>
+    <test name="Test C1" duration-ms="8" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+      <class name="com.qtpselenium.suite.productdisplay.TestCase_C1">
+        <test-method status="SKIP" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C1@6db911d2]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="SKIP" signature="testcaseC1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C1@6db911d2]" name="testcaseC1" duration-ms="1" started-at="2014-06-12T07:12:42Z" data-provider="getTestData" finished-at="2014-06-12T07:12:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dummy Data_C1_1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dummy Data_C1_2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dummy Data_C1_3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dummy Data_C1_4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseC1 -->
+        <test-method status="SKIP" signature="testcaseC1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C1@6db911d2]" name="testcaseC1" duration-ms="0" started-at="2014-06-12T07:12:42Z" data-provider="getTestData" finished-at="2014-06-12T07:12:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dummy Data_C1_5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dummy Data_C1_6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dummy Data_C1_7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dummy Data_C1_8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseC1 -->
+        <test-method status="SKIP" signature="testcaseC1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C1@6db911d2]" name="testcaseC1" duration-ms="1" started-at="2014-06-12T07:12:42Z" data-provider="getTestData" finished-at="2014-06-12T07:12:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dummy Data_C1_9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dummy Data_C1_10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dummy Data_C1_11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dummy Data_C1_12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseC1 -->
+        <test-method status="SKIP" signature="testcaseC1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C1@6db911d2]" name="testcaseC1" duration-ms="1" started-at="2014-06-12T07:12:42Z" data-provider="getTestData" finished-at="2014-06-12T07:12:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dummy Data_C1_13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dummy Data_C1_14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dummy Data_C1_15]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dummy Data_C1_16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseC1 -->
+      </class> <!-- com.qtpselenium.suite.productdisplay.TestCase_C1 -->
+    </test> <!-- Test C1 -->
+    <test name="Test C2" duration-ms="2" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+      <class name="com.qtpselenium.suite.productdisplay.TestCase_C2">
+        <test-method status="SKIP" signature="checkSuiteSkip()[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C2@729405ca]" name="checkSuiteSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Runmode of Product Display Suite set to no. So Skipping all tests in Suite Product Display]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Runmode of Product Display Suite set to no. So Skipping all tests in Suite Product Display
+	at com.qtpselenium.suite.productdisplay.TestSuiteBase.checkSuiteSkip(TestSuiteBase.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:277)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="SKIP" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C2@729405ca]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="SKIP" signature="testcaseC2()[pri:0, instance:com.qtpselenium.suite.productdisplay.TestCase_C2@729405ca]" name="testcaseC2" duration-ms="1" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseC2 -->
+      </class> <!-- com.qtpselenium.suite.productdisplay.TestCase_C2 -->
+    </test> <!-- Test C2 -->
+  </suite> <!-- Suite C -->
+  <suite name="Shop Suite" duration-ms="47756" started-at="2014-06-12T11:11:54Z" finished-at="2014-06-12T11:12:42Z">
+    <groups>
+    </groups>
+    <test name="AddProduct Test" duration-ms="45353" started-at="2014-06-12T11:11:54Z" finished-at="2014-06-12T11:12:39Z">
+      <class name="com.qtpselenium.suite.shop.AddProductTest">
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="checkTestSkip" is-config="true" duration-ms="4" started-at="2014-06-12T07:11:54Z" finished-at="2014-06-12T07:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="FAIL" signature="addProductToBasket(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="addProductToBasket" duration-ms="37600" started-at="2014-06-12T07:11:54Z" data-provider="getTestData" finished-at="2014-06-12T07:12:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Google Nexus S]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[black]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8 GB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[No element present expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: No element present expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.qtpselenium.base.TestBase.checkElementPresence(TestBase.java:117)
+	at com.qtpselenium.suite.shop.AddProductTest.addProductToBasket(AddProductTest.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToBasket -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="reportDataSetResult" is-config="true" duration-ms="268" started-at="2014-06-12T07:12:32Z" finished-at="2014-06-12T07:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="FAIL" signature="addProductToBasket(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="addProductToBasket" duration-ms="5923" started-at="2014-06-12T07:12:32Z" data-provider="getTestData" finished-at="2014-06-12T07:12:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone 4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[white]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8 GB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:332)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:408)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:295)
+	at com.qtpselenium.base.TestBase.checkElementPresence(TestBase.java:114)
+	at com.qtpselenium.suite.shop.AddProductTest.addProductToBasket(AddProductTest.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:337)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 31 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToBasket -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="reportDataSetResult" is-config="true" duration-ms="122" started-at="2014-06-12T07:12:38Z" finished-at="2014-06-12T07:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="FAIL" signature="addProductToBasket(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="addProductToBasket" duration-ms="1003" started-at="2014-06-12T07:12:38Z" data-provider="getTestData" finished-at="2014-06-12T07:12:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desire HD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[white]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8 GB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at com.qtpselenium.suite.shop.AddProductTest.addProductToBasket(AddProductTest.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:319)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToBasket -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="reportDataSetResult" is-config="true" duration-ms="260" started-at="2014-06-12T07:12:39Z" finished-at="2014-06-12T07:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.qtpselenium.suite.shop.AddProductTest@107c1f2f]" name="reportTestResult" is-config="true" duration-ms="98" started-at="2014-06-12T07:12:39Z" finished-at="2014-06-12T07:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.qtpselenium.suite.shop.AddProductTest -->
+    </test> <!-- AddProduct Test -->
+    <test name="CheckProduct Display" duration-ms="1150" started-at="2014-06-12T11:12:39Z" finished-at="2014-06-12T11:12:41Z">
+      <class name="com.qtpselenium.suite.shop.CheckProductDisplay">
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.shop.CheckProductDisplay@33f724c7]" name="checkTestSkip" is-config="true" duration-ms="1" started-at="2014-06-12T07:12:39Z" finished-at="2014-06-12T07:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="FAIL" signature="testcaseA1()[pri:0, instance:com.qtpselenium.suite.shop.CheckProductDisplay@33f724c7]" name="testcaseA1" duration-ms="1003" started-at="2014-06-12T07:12:39Z" finished-at="2014-06-12T07:12:40Z">
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at com.qtpselenium.suite.shop.CheckProductDisplay.testcaseA1(CheckProductDisplay.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:319)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseA1 -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.shop.CheckProductDisplay@33f724c7]" name="reportDataSetResult" is-config="true" duration-ms="59" started-at="2014-06-12T07:12:41Z" finished-at="2014-06-12T07:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.qtpselenium.suite.shop.CheckProductDisplay@33f724c7]" name="reportTestResult" is-config="true" duration-ms="78" started-at="2014-06-12T07:12:41Z" finished-at="2014-06-12T07:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.qtpselenium.suite.shop.CheckProductDisplay -->
+    </test> <!-- CheckProduct Display -->
+    <test name="Random Product selection test" duration-ms="1175" started-at="2014-06-12T11:12:41Z" finished-at="2014-06-12T11:12:42Z">
+      <class name="com.qtpselenium.suite.shop.RandomSelection">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:com.qtpselenium.suite.shop.RandomSelection@22cb855e]" name="checkSuiteSkip" is-config="true" duration-ms="1268" started-at="2014-06-12T07:11:53Z" finished-at="2014-06-12T07:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.shop.RandomSelection@22cb855e]" name="checkTestSkip" is-config="true" duration-ms="1" started-at="2014-06-12T07:12:41Z" finished-at="2014-06-12T07:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="FAIL" signature="testSelection()[pri:0, instance:com.qtpselenium.suite.shop.RandomSelection@22cb855e]" name="testSelection" duration-ms="1003" started-at="2014-06-12T07:12:41Z" finished-at="2014-06-12T07:12:42Z">
+          <exception class="org.openqa.selenium.remote.UnreachableBrowserException">
+            <message>
+              <![CDATA[Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:12:12'
+System info: host: 'svprasad-PC', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at com.qtpselenium.suite.shop.RandomSelection.testSelection(RandomSelection.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:178)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:319)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:298)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:165)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:366)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.remote.UnreachableBrowserException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelection -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.shop.RandomSelection@22cb855e]" name="reportDataSetResult" is-config="true" duration-ms="78" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.qtpselenium.suite.shop.RandomSelection@22cb855e]" name="reportTestResult" is-config="true" duration-ms="87" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.qtpselenium.suite.shop.RandomSelection -->
+    </test> <!-- Random Product selection test -->
+  </suite> <!-- Shop Suite -->
+  <suite name="My suite" duration-ms="0" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+    <groups>
+    </groups>
+  </suite> <!-- My suite -->
+  <suite name="Cart Suite" duration-ms="54" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+    <groups>
+    </groups>
+    <test name="CheckTotal Test" duration-ms="5" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+      <class name="com.qtpselenium.suite.cart.CheckTotal">
+        <test-method status="SKIP" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.cart.CheckTotal@3c9d026d]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="SKIP" signature="testcaseCartTotal()[pri:0, instance:com.qtpselenium.suite.cart.CheckTotal@3c9d026d]" name="testcaseCartTotal" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseCartTotal -->
+        <test-method status="SKIP" signature="reportDataSetResult()[pri:0, instance:com.qtpselenium.suite.cart.CheckTotal@3c9d026d]" name="reportDataSetResult" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="SKIP" signature="reportTestResult()[pri:0, instance:com.qtpselenium.suite.cart.CheckTotal@3c9d026d]" name="reportTestResult" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.qtpselenium.suite.cart.CheckTotal -->
+    </test> <!-- CheckTotal Test -->
+    <test name="Test B2" duration-ms="3" started-at="2014-06-12T11:12:42Z" finished-at="2014-06-12T11:12:42Z">
+      <class name="com.qtpselenium.suite.cart.TestCase_B2">
+        <test-method status="SKIP" signature="checkSuiteSkip()[pri:0, instance:com.qtpselenium.suite.cart.TestCase_B2@452d4b9c]" name="checkSuiteSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[RUnmode of Cart Suite set to no. So Skipping all tests in Suite A]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: RUnmode of Cart Suite set to no. So Skipping all tests in Suite A
+	at com.qtpselenium.suite.cart.TestSuiteBase.checkSuiteSkip(TestSuiteBase.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:277)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="SKIP" signature="checkTestSkip()[pri:0, instance:com.qtpselenium.suite.cart.TestCase_B2@452d4b9c]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="SKIP" signature="testcaseB2()[pri:0, instance:com.qtpselenium.suite.cart.TestCase_B2@452d4b9c]" name="testcaseB2" duration-ms="1" started-at="2014-06-12T07:12:42Z" finished-at="2014-06-12T07:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseB2 -->
+      </class> <!-- com.qtpselenium.suite.cart.TestCase_B2 -->
+    </test> <!-- Test B2 -->
+  </suite> <!-- Cart Suite -->
+</testng-results>
